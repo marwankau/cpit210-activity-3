@@ -8,8 +8,8 @@ Use Java File [App.java](/src/App.java) as your source in order to write equival
 
 ## Group Members
 
-1. [First Student](https://github.com/first-student)
-1. [Second Student](https://github.com/second-student)
+1. [saud saad](https://github.com/Saudsaad5)
+1. [its also me lol](https://github.com/Saudsaad5)
 
 
 ## Deadline and Submission
