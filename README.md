@@ -9,7 +9,7 @@ Use Java File [App.java](/src/App.java) as your source in order to write equival
 ## Group Members
 
 1. [Saher Marsi](https://github.com/SaherMarsi)
-1. [Suhaib Alghamdi](https://github.com/SuhaibAG)
+2. [Suhaib Alghamdi](https://github.com/SuhaibAG)
 
 
 ## Deadline and Submission
