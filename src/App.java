@@ -16,7 +16,7 @@ public class App {
 
       if (x > 0) {
         positive++;
-      } else {
+      } else if (x < 0) {
         negative++;
       }
       i++;
